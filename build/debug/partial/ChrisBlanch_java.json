@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ChrisBlanch (in project ChrisBlanch)",
+    "file": "C:\\Users\\cblan\\FRCProjects\\ChrisBlanch\\build\\libs\\ChrisBlanch.jar",
+    "extensions": [
+      "C:\\Users\\cblan\\FRCProjects\\ChrisBlanch\\build\\tmp\\expandedArchives\\halsim_gui-2021.2.2-windowsx86-64.zip_d9b742accb7d26f71bdac05b796e7cc3\\windows\\x86-64\\shared\\halsim_gui.dll",
+      "C:\\Users\\cblan\\FRCProjects\\ChrisBlanch\\build\\tmp\\expandedArchives\\halsim_ds_socket-2021.2.2-windowsx86-64.zip_32ee0d595231a6c6d5a0455f7d794cf5\\windows\\x86-64\\shared\\halsim_ds_socket.dll"
+    ],
+    "env": {},
+    "librarydir": "C:\\Users\\cblan\\FRCProjects\\ChrisBlanch\\build\\tmp\\jniExtractDir",
+    "mainclass": "frc.robot.Main"
+  }
+]
